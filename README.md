@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leonardo!
 🎓 Estudante de **Engenharia de Software**  
 💻 Apaixonado por Tecnologia  
-⚡ Sempre em busca de aprender algo novo. Buscando reforçar meus conhecimentos em Django e explorando o ecossistema React
+⚡ Sempre em busca de aprender algo novo. E reforçar conhecimentos.
 
 ---
 ## 📊 Estatísticas do GitHub
