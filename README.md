@@ -6,7 +6,7 @@
 ---
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeonardoDMdev&show_icons=true&theme=dark" />
+  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeonardoDMdev&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=LeonardoDMdev&show_icons=true&theme=dark)" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeonardoDMdev&layout=compact&theme=dark" />
+  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeonardoDMdev&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDMdev&layout=compact&theme=dark)" />
 </p>
 
 
