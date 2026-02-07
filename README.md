@@ -5,14 +5,12 @@
 
 ---
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeonardoDMdev
-&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeonardoDMdev&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoDMdev
-&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoDMdev&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeonardoDMdev
-&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeonardoDMdev&layout=compact&theme=dark)
+
 
 <hr/>
 
